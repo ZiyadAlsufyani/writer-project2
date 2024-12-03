@@ -4,7 +4,7 @@ const rti = require('rticonnextdds-connector');
 const app = express();
 const bodyParser = require('body-parser');
 
-const configFile = path.join(__dirname, 'NewProject.xml');
+const configFile = path.join(__dirname, 'QSystem.xml');
 const PORT = 5000;
 
 app.use(bodyParser.json());
