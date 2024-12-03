@@ -25,7 +25,7 @@
       "builtin": true
     },
     {
-      "path": "NewProject.xml",
+      "path": "QSystem.xml",
       "readonly": false,
       "builtin": false
     }
